@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tage_name: "release-v1-2023"
+          tag_name: "release-v1-2023"
           release_name: "Release WISSAL FORMATION 2023"
           draft: false
           prerelease: false      
