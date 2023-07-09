@@ -1,0 +1,10 @@
+version: "2.0"
+services:
+  django:
+    image: django:wissal-2.0
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    ports:
+      - 80:8000
+    volumes:
+      - "./:/src"
