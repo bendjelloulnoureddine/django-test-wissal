@@ -1,0 +1,15 @@
+/home/bendjelloul/Dev/Wissal/myproject/bin/Debug/net6.0/myproject
+/home/bendjelloul/Dev/Wissal/myproject/bin/Debug/net6.0/myproject.deps.json
+/home/bendjelloul/Dev/Wissal/myproject/bin/Debug/net6.0/myproject.runtimeconfig.json
+/home/bendjelloul/Dev/Wissal/myproject/bin/Debug/net6.0/myproject.dll
+/home/bendjelloul/Dev/Wissal/myproject/bin/Debug/net6.0/myproject.pdb
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.csproj.AssemblyReference.cache
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.GeneratedMSBuildEditorConfig.editorconfig
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.AssemblyInfoInputs.cache
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.AssemblyInfo.cs
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.csproj.CoreCompileInputs.cache
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.dll
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/refint/myproject.dll
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.pdb
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/myproject.genruntimeconfig.cache
+/home/bendjelloul/Dev/Wissal/myproject/obj/Debug/net6.0/ref/myproject.dll
